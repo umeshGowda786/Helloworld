@@ -40,7 +40,6 @@ steps:
     resourceGroupName: 'cloud-shell-storage-centralindia'
     location: 'West Central US'
     templateLocation: 'Linked artifact'
-    csmFile: 'https://aka.ms/azuretemplates'
     deploymentMode: 'Incremental'
     deploymentName: 'ARM'
     addSpnToEnvironment: true
